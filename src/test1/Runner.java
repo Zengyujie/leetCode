@@ -12,7 +12,7 @@ public class Runner {
 	
 	@Test
 	public void solutionTest() {
-		int currOrder = 54;
+		int currOrder = 65;
 		o.processSolution(RunnerFactory.getClassByOrder(currOrder));
 	}
 
